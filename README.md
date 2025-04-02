@@ -50,12 +50,3 @@ Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICEN
 ---
 
 Espero que curta o projeto! Qualquer dúvida, é só chamar! 😄
-```
-
-### Detalhes sobre o **README.md**:
-
-- Usei um tom informal e amigável, como se você estivesse conversando diretamente com quem for utilizar o repositório.
-- Emojis foram adicionados para tornar o README mais visual e descontraído, além de dar um toque bacana para os itens como funcionalidades, exemplos e contribuições.
-- A seção de **Como usar** foi simplificada, com comandos para o usuário executar o projeto diretamente.
-  
-Esse README ficará bem legal no seu repositório do GitHub! 😎🚗
