@@ -1,6 +1,3 @@
-Claro! Aqui está um exemplo de **README.md** com um tom mais descontraído e usando emojis:
-
-```markdown
 # 🚗 Sistema de Venda de Veículos 🚗
 
 Bem-vindo ao **Sistema de Venda de Veículos**! 🎉
@@ -18,7 +15,6 @@ Este é um projetinho simples feito em **Python** que simula um sistema de venda
 1. **Clone o repositório**:
    ```bash
    git clone https://github.com/seu-usuario/venda-veiculos.git
-   ```
 
 2. **Instale o Python** (se não tiver instalado):
    - Baixe o Python [aqui](https://www.python.org/downloads/).
