@@ -1,10 +1,12 @@
 print("""
-Adicionar Peça: O usuário pode inserir uma nova peça de roupa informando os detalhes necessários (tipo, tamanho, cor, preço, etc.).
+CADASTRAR Veículo: O usuário pode inserir um novo veículo informando os detalhes necessários (modelo, ano, preço, etc.).
 
-Listar Peças: Exibe todas as peças disponíveis no catálogo.
+LISTAS Veículos: Exibe todos os veículos disponíveis no catálogo.
 
-Comprar Peça: Remove uma peça da lista, simulando a compra.
+COMPRAR Veículo: Remove um veículo da lista, simulando a compra.
+
 """)
+
 
 veiculos = []  # Lista para armazenar os veículos
 id_veiculo = 1  # Inicializa o ID dos veículos
